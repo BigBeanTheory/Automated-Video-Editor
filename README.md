@@ -1,4 +1,4 @@
-# CheerDetector-AI
+# Automated-Video-Editor
 
 A Machine Learning-based project designed to detect cheering moments in audio and video files using a Random Forest classifier. This repository processes audio to identify cheering segments, visualizes predictions on waveforms, and creates highlight reels from video inputs by extracting exciting moments. Ideal for applications in sports analysis, event summarization, or interactive media.
 
@@ -24,5 +24,5 @@ A Machine Learning-based project designed to detect cheering moments in audio an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/BigBeanTheory/CheerDetector-AI.git
-   cd CheerDetector-AI
+   git clone https://github.com/BigBeanTheory/Automated-Video-Editor.git
+   cd Automated-Video-Editor
